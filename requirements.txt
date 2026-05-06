@@ -17,6 +17,4 @@ pyenchant==3.2.2
 regex==2024.11.6
 
 Pillow==10.3.0
-
-# IMPORTANT: avoid TensorFlow 2.20 (breaks on cloud)
-tensorflow-cpu==2.15.0
+joblib==1.3.2
