@@ -544,4 +544,3 @@ elif selected == "Contact":
     
     # Horizontal line separator
     st.markdown("---")
-
